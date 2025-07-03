@@ -1,0 +1,96 @@
+{
+  "CV": {
+    "nom": "Lea",
+    "prenom": "Oddone",
+    "age": "27",
+    "formations": {
+      "BUTInfo-Com": {
+        "nom": "BUT Information et Communication (anciennement DUT)",
+        "ecole": "IUT Jean-Moulin Lyon",
+        "dateDebut": "01-09-2016",
+        "dateFin": "01-06-2018",
+        "description": "Parmi les principales compétences acquises à la fin du DUT, on peut mentionner : l'aisance rédactionnelle et relationnelle, l'expertise dans la conception de stratégies de communication, l'aptitude à construire des réseaux professionnels et à organiser des évènements, la maîtrise de nombreux logiciels spécialisés."
+            },
+      "DUETI": {
+        "nom": "DUETI",
+        "ecole": "Cégep de Jonquière, Québec",
+        "dateDebut": "01-09-2018",
+        "dateFin": "01-06-2019",
+        "description": "Le DUETI (diplôme d'université d'études technologiques internationales) permet à l'étudiant d'acquérir un complément de formation dans sa spécialité en milieu universitaire et professionnel étranger, de maîtriser la langue de spécialité et également d'appréhender le contexte socio-culturel du pays d'accueil. L'étudiant doit être titulaire d'un Diplôme Universitaire de Technologie."
+      },
+      "L3": {
+        "nom": "Licence L3 Information-Communication, spécialité Création Numérique",
+        "ecole": "Université de Toulon",
+        "dateDebut": "01-09-2019",
+        "dateFin": "01-06-2020",
+        "description": "Le parcours de formation proposé en Licence 3 Info-Com est destiné à offrir aux étudiants des bases suffisamment solides et plurivalentes afin de leur permettre d’accéder à une poursuite d’études en master en particulier dans les domaines de la communication, de l’information et de la création numérique en milieux industriels et culturels."
+      },
+      "M1": {
+        "nom": "M1 Marketing Communication Globale",
+        "ecole": "ISCOM Lyon",
+        "dateDebut": "01-09-2020",
+        "dateFin": "01-06-2021",
+        "competences": [
+          "Élaborer un plan de communication et le budgéter",
+          "Mettre en œuvre une stratégie marketing",
+          ""
+        ]
+      },
+      "Master": {
+        "nom": "Master Expérience Client, UX et Data Marketing",
+        "ecole": "ISCOM Lyon",
+        "dateDebut": "01-09-2021",
+        "dateFin": "01-08-2022",
+        "competences": [
+          "Observer les usages et les comportements d’un utilisateur",
+          "Étudier un parcours utilisateur (comprendre, problématiser et organiser les besoins d’un utilisateur)",
+          "Produire des contenus conversationnels principalement pour les réseaux sociaux (social content, brand content)",
+          "Créer et/ou optimiser des plateformes de diffusion de contenus online",
+          "Ajouter des offres servicielles additionnelles et des fonctionnalités",
+          "Prototyper des expériences de marque innovantes et interactives",
+          "Définir l’ergonomie d’un support digital."
+        ]
+      },
+      "TesteurLogiciel": {
+        "nom": "Testeur Logiciel ISTQB Foundamental",
+        "ecole": "IT AKADEMY (formation Région",
+        "dateDebut": "15/05/2025",
+        "dateFin": "15/01/2026",
+        "competences": [
+                "Passage de la certification ISTQB Foundamental",
+                "Introduction à l'UX et aux nouveaux usages liés à la transition numérique",
+                "Algorithmie et bases du développement informatique",
+                "Normes et référentiels de qualité et d'accessibilité",
+                "Conception des tests logiciels et préparation des jeux de données",
+                "Qualité logicielle, tests unitaires et stratégie des tests fonctionnels",
+                "Méthodes et outils pour la gestion des tests",
+                "Méthodes et bonnes pratiques de reporting."
+            ]
+      }
+    },
+
+    "experiences": {
+      "StageSCIACI": {
+        "nom": "Stage en tant que Chargée de Communication",
+        "entreprise": "Société XYZ",
+        "dateDebut": "01-06-2017",
+        "dateFin": "01-09-2017",
+        "description": "Réalisation de supports de communication, gestion des réseaux sociaux, organisation d'événements."
+      },
+      "AlternanceDIMO": {
+        "nom": "Stage en tant que Assistante Marketing",
+        "entreprise": "Entreprise ABC",
+        "dateDebut": "01-06-2020",
+        "dateFin": "01-09-2020",
+        "description": "Analyse de marché, création de contenu marketing, gestion de campagnes publicitaires."
+      },
+      "CDIEnersys": {
+        "nom": "Stage en tant que UX Designer",
+        "entreprise": "Startup Innovante",
+        "dateDebut": "01-06-2021",
+        "dateFin": "01-09-2021",
+        "description": "Conception d'interfaces utilisateur, tests utilisateurs, optimisation de l'expérience client."
+      }
+    }
+  }
+}
